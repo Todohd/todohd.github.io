@@ -1,0 +1,6 @@
+\ NPM INSTALL /
+
+npm install @material-ui/icons --legacy-peer-deps
+npm install @material-ui/core --legacy-peer-deps
+npm install @material-ui/icons/Reorder --legacy-peer-deps
+npm install react-router-dom
